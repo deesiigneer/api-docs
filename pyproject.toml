@@ -1,0 +1,5 @@
+[project]
+name = "spworlds_api"
+version = "1.0"
+description = "Документация API для SPWorlds.ru"
+authors = [{name = "deesiigneer", email = "xdeesiigneerx@gmail.com"}]
